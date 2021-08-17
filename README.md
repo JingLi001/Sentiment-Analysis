@@ -19,6 +19,5 @@ The source of data is [IMDb dataset], which provide a set of 25,000 highly polar
 The following questions will be illustrated:
 * What is the data like ?
 * How to deal with the raw data ?
-* How to deal with the raw data ?
 * How to build models to identify the results ?
 * Which methods can we try to improve the accuracy ?
