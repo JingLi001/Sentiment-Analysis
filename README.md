@@ -17,7 +17,7 @@ These reviews are important to the business holders as they can take business de
 
 The source of data is [IMDb datase](http://ai.stanford.edu/~amaas/data/sentiment/) to take you there., which provide a set of 25,000 highly polar movie reviews for training, and 25,000 for testing.
 The following questions will be illustrated:
-*What is the data like ?
-*How to deal with the raw data ?
-*How to build models to identify the results ?
-*Which methods can we try to improve the accuracy ?
+- What is the data like ?
+- How to deal with the raw data ?
+- How to build models to identify the results ?
+- Which methods can we try to improve the accuracy ?
