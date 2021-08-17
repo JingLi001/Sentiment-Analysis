@@ -3,11 +3,10 @@
 
 1. [Motivation](#motivation)
 2. [Installation](#installation)
-3. [File description](#file)
-4. [Results](#results)
-5. [Licensing](#licensing)
-6. [Authors](#author)
-7. [Acknowledgements](#ack)
+3. [Results](#results)
+4. [Licensing](#licensing)
+5. [Authors](#author)
+6. [Acknowledgements](#ack)
 
 ## Motivation <a name="motivation"></a>
 
@@ -21,3 +20,23 @@ The following questions will be illustrated:
 - How to deal with the raw data ?
 - How to build models to identify the results ?
 - Which methods can we try to improve the accuracy ?
+
+## Installation <a name="installation"></a>
+
+- Python 3
+- Torch
+
+## Results
+
+I have documented all the findings from the result of this project and wrote a post and published it on Medium.Click [here](https://jingli11.medium.com/optimizing-app-offers-with-starbucks-e8a3d76028d4) to take you there.
+
+
+## Licensing <a name="licensing"></a>
+
+## Authors <a name="author"></a>
+Jing Li and Udacity
+
+## Acknowledgements <a name="ack"></a>
+
+Thank you Udacity platform and Starbucks for the data.
+
