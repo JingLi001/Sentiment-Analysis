@@ -38,5 +38,5 @@ Jing Li and Udacity
 
 ## Acknowledgements <a name="ack"></a>
 
-Thank you Udacity platform and Starbucks for the data.
+Thank you Udacity platform and IDMb for the data.
 
