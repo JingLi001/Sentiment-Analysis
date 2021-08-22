@@ -23,12 +23,13 @@ The following questions will be illustrated:
 
 ## Installation <a name="installation"></a>
 
-- Python 3
-- Torch
+- Python 3.8.5
+- Pytorch 1.9.0
+- Torchtext 0.10.0
 
 ## Results
 
-I have documented all the findings from the result of this project and wrote a post and published it on Medium.Click [here](https://jingli11.medium.com/optimizing-app-offers-with-starbucks-e8a3d76028d4) to take you there.
+I have documented all the findings from the result of this project and wrote a post and published it on Medium.Click [here](https://jingli11.medium.com/sentiment-analysis-64ab58175587) to take you there.
 
 
 ## Licensing <a name="licensing"></a>
